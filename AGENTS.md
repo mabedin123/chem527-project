@@ -28,6 +28,15 @@ When the student asks for a plan, give it in words and write no code until the s
 
 The student replaces the three lines below and adds a line each time they correct the assistant on the same point twice.
 
-- Question: (one sentence)
-- Data: (the file in `data/`, what one row is, and its source URL and access date)
-- Measured variable: (its column name and unit)
+- Question: Which of the seven parameters significantly change peak width or height, and are they the same for early- and late-eluting standards?
+- Data: 
+
+The data is data/TIC_Method_1.csv to data/TIC_Method_32.csv, data/ffd.csv which is the the design and data/rts.csv which is the retention times .
+In a TIC file, one row is one time point of one chromatogram, with time in min and intensity in counts. 
+In ffd.csv, one row is one method. 
+In rts.csv, one row is one method's retention times for the 11 standards. 
+https://doi.org/10.6084/m9.figshare.28635920.v1
+Access date: 2026-11-08
+
+- Measured variable: 
+Measured variable is the intensity counts, the total ion current in counts. The peak height and width are dervied from this and used in the analysis. 
