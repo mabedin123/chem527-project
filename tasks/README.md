@@ -26,6 +26,7 @@ Newest first. Change the link to `archive/NNN-slug.md` when a task moves.
 
 | Number | Task | Status | Due |
 |---|---|---|---|
+| 004 | [Measure peak height and width](004-peak-measurement.md) | active | YYYY-MM-DD |
 | 003 | [Topic declaration](003-topic-declaration.md) | active | 2026-11-08 |
 | 002 | [Copy the course environment](archive/002-environment.md) | done | 2026-11-01 |
 | 001 | [Write `.gitignore`](archive/001-gitignore.md) | done | 2026-11-01 |
