@@ -1,6 +1,6 @@
 # 004: Measure peak height and width
 
-- **Status:** active
+- **Status:** done
 - **Created:** 2026-11-22
 - **Updated:** 2026-11-23
 - **Due:** YYYY-MM-DD
@@ -78,4 +78,4 @@ Every one of the 352 peaks (32 methods × 11 standards) has a height in counts a
 
 ## Outcome
 
-...
+All 352 peaks (32 methods × 11 standards) have a height (2.7 × 10⁶ to 4.1 × 10⁸ counts) and a FWHM (0.022–0.067 min, 1.3–4.0 s) in the table `peaks` in `analysis.ipynb`, measured above a valley-to-valley baseline. 20 peaks are flagged (17 neighbor, 4 truncated, 3 apex, 1 flat top; some carry more than one flag); the peak-check figure shows each is measured correctly, so all are kept. Removing the flagged peaks changes no active height verdict; iodopropane's width results are not robust. Plausibility checks pass: signal-to-noise at least 37, elution order the same in all 32 methods, widths roughly constant with elution order. The measurements were then used for the effects, Lenth, early-against-late and residual analyses (commits `e207edc` to `4201f46`).
