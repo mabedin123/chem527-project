@@ -1,8 +1,8 @@
 # 003: Topic declaration
 
-- **Status:** active
-- **Created:** YYYY-MM-DD
-- **Updated:** YYYY-MM-DD
+- **Status:** done
+- **Created:** 2026-11-08
+- **Updated:** 2026-11-23
 - **Due:** 2026-11-08, 11:59 pm
 
 ## Goal
@@ -58,4 +58,10 @@ The Canvas entry is in. Close this task after it is, with the URL you submitted 
 
 ## Progress log
 
+### 2026-11-08: declaration committed and submitted at 11:42 pm
+
+Committed `topic.ipynb`, `proposal.md`, the data in `data/` and the "This project" lines of `AGENTS.md` as commit f49261f, pushed it, and submitted its URL on Canvas.
+
 ## Outcome
+
+Submitted on Canvas: https://github.com/mabedin123/chem527-project/commit/f49261f2eb2c9e16d2b80dd669a84fe5a55b70c2

@@ -3,7 +3,7 @@
 - **Status:** done
 - **Created:** 2026-11-22
 - **Updated:** 2026-11-23
-- **Due:** YYYY-MM-DD
+- **Due:** 2026-11-22
 
 ## Goal
 
